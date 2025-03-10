@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 # About me
 
 I am pursuing my Master's degree at School of Computing, National University of Singapore. I am working as a student researcher at Trustworthy Engineering of Software Technologies([TEST](https://nus-test.github.io/)) Lab, and advised by Prof. [Manuel Rigger](https://www.manuelrigger.at/). I graduated from Software Institute at Nanjing University.
@@ -16,11 +15,7 @@ I am pursuing my Master's degree at School of Computing, National University of 
 Email: [tiancheng.x@u.nus.edu](mailto:tiancheng.x@u.nus.edu)  
 Github: [NayameoW](https://github.com/NayameoW)
 
-For my BLOG, please visit [here](https://nayameow.notion.site/Naya-s-Blog-9ad24dfb0f5d4778aad95c4aae91cef8?pvs=4)
-
 ## Education
-
-High School Diploma, Shanghai High School
 
 Bachelor's degree in Software Engineering, Nanjing University
 
@@ -33,7 +28,7 @@ Master of Computing, AI Specialisation, National University of Singapore
 
 Currently I am researching Database Testing. My work builds upon a DBMS testing tool **[SQLancer](https://github.com/sqlancer/sqlancer)**.
 
-![sqlancer_logo_logo_pos_500](https://s2.loli.net/2024/09/08/DkSV4POu3whv9Tr.png)
+<img src="https://s2.loli.net/2024/09/08/DkSV4POu3whv9Tr.png" title="" alt="sqlancer_logo_logo_pos_500" width="354">
 
 ## Publications and Preprints
 
