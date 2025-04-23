@@ -31,8 +31,3 @@ My name is Tiancheng Xing(邢天骋). I'm currently a Master student at School o
 
 
 I'm currently working on Database Testing and some LLM topics.
-
-```{% for y in page.years %}
-  <h3 class="year">{{y}}</h3>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}```
