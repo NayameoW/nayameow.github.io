@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nayameow.github.io/sitemap.xml
