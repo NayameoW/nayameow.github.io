@@ -24,10 +24,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+## About me
+
+Hi! My name is Tiancheng Xing(邢天骋). I'm currently a Master student at School of Computing,  National University of Singapore(NUS). I worked as a student researcher in TEST lab at NUS, advised by Prof.Manuel Rigger. Before that, I obtained my bachelor's degree in Software Institute, Nanjing University(NJU).
 
 
-My name is Tiancheng Xing(邢天骋). I'm currently a Master student at School of Computing,  National University of Singapore(NUS). I'm working as a student researcher in TEST lab at NUS, advised by Prof.Manuel Rigger. Before that, I obtained my bachelor's degree in Software Institute, Nanjing University(NJU).
 
+## Research Interests
 
+I'm currently working on:
 
-I'm currently working on Database Testing and some LLM topics.
+- LLM Safety
+
+- Proactive Dialogs and LLM Role Playing
