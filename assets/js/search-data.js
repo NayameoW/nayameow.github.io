@@ -64,7 +64,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{
+            },},{id: "news-our-paper-raf-is-accepted-by-acl-26-main-conference",
+          title: 'Our paper RAF is accepted by ACL 26 Main conference.',
+          description: "",
+          section: "News",},{
         id: 'social-dblp',
         title: 'DBLP',
         section: 'Socials',
