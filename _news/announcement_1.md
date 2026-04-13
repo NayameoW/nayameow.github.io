@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-4-07 20:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper RAF is accepted by ACL 26 Main conference.
