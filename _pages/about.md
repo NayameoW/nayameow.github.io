@@ -26,9 +26,7 @@ latest_posts:
 
 ## about me
 
-Hi! My name is Tiancheng Xing(邢天骋). I'm currently a Master student at School of Computing,  National University of Singapore(NUS). I worked as a student researcher in TEST lab at NUS, advised by Prof.Manuel Rigger. Before that, I obtained my bachelor's degree in Software Institute, Nanjing University(NJU).
-
-
+Hi! My name is Tiancheng Xing(邢天骋). I graduated from the Master of Computing at National University of Singapore(NUS). I worked as a student researcher in TEST lab at NUS, advised by Prof.Manuel Rigger. Before that, I obtained my bachelor's degree in Software Institute, Nanjing University(NJU).
 
 ## research interests
 
