@@ -26,10 +26,13 @@ latest_posts:
 
 ## about me
 
-Hi! My name is Tiancheng Xing(邢天骋). I graduated from the Master of Computing at National University of Singapore(NUS). I worked as a student researcher in TEST lab at NUS, advised by Prof.Manuel Rigger. Before that, I obtained my bachelor's degree in Software Institute, Nanjing University(NJU).
+Hi! My name is Tiancheng Xing(邢天骋). I am an incoming Ph.D. student at the Institute of Science Tokyo, supervised by Professor Jun Sakuma. I graduated from the Master of Computing at National University of Singapore(NUS). I worked as a student researcher in TEST lab at NUS, advised by Prof.Manuel Rigger. Before that, I obtained my bachelor's degree in Software Institute, Nanjing University(NJU).
 
 ## research interests
 
 I'm currently working on:
 
-- LLM Safety
+- LLM/VLA Safety
+- Multi-agent Debate
+
+<span style="color: red; font-weight: bold;">[Open to Collaboration]</span>: I am interested in collaborations. Please [email me](mailto:tiancheng.x@u.nus.edu) with a brief description of the project or topic.
