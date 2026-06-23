@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>National University of Singapore</a>. School of Computing.
+subtitle: <a href='#'>Institute of Science Tokyo</a>. School of Computing.
 
 profile:
   align: right
