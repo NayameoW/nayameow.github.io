@@ -67,6 +67,9 @@ ninja.data = [{
             },},{id: "news-our-paper-raf-is-accepted-by-acl-26-main-conference",
           title: 'Our paper RAF is accepted by ACL 26 Main conference.',
           description: "",
+          section: "News",},{id: "news-i-will-start-as-a-ph-d-student-at-the-institute-of-science-tokyo-in-fall-2026",
+          title: 'I will start as a Ph.D. student at the Institute of Science Tokyo...',
+          description: "",
           section: "News",},{
         id: 'social-dblp',
         title: 'DBLP',
