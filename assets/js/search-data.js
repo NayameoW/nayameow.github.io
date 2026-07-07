@@ -70,6 +70,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-start-as-a-ph-d-student-at-the-institute-of-science-tokyo-in-fall-2026",
           title: 'I will start as a Ph.D. student at the Institute of Science Tokyo...',
           description: "",
+          section: "News",},{id: "news-i-attended-acl-2026-presented-my-poster-and-made-many-new-friends",
+          title: 'I attended ACL 2026, presented my poster, and made many new friends.',
+          description: "",
           section: "News",},{
         id: 'social-dblp',
         title: 'DBLP',
