@@ -32,7 +32,7 @@ Hi! My name is Tiancheng Xing(邢天骋). I am a Ph.D. student at the Institute 
 
 I'm currently working on:
 
-- LLM Safety
-- Multi-agent Debate
+- LLM/VLA/WM Safety
+- Video Privacy and Security
 
-<span style="color: red; font-weight: bold;">[Open to Collaboration]</span>: I am interested in collaborations. Please [email me](mailto:tiancheng.x@u.nus.edu) with a brief description of the project or topic.
+<span style="color: red; font-weight: bold;">[Open to Collaboration]</span>: I am interested in collaborations. Please [email me](mailto:xing.t.13fb@m.isct.ac.jp) with a brief description of the project or topic.
